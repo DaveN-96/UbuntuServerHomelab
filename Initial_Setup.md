@@ -14,3 +14,20 @@ Next I want to set a static IP address on my Host-Only adapter, so that I can al
 I edit the file to assign enp0s8 a static 192.168.56.20/24 address.
 
 ![network config after](screenshots/network_config_after.png)
+
+## Confirming connectivity
+
+I run 'ip a' again to confirm the new static IP.
+
+![ip a after](screenshots/ip_a_after.png)
+
+Next I ping google to confirm connectivity.
+
+![ping](screenshots/successful_ping.png)
+
+Lastly I test SSH from my Windows host OS.
+
+![SSH](screenshots/SSH_connection.png)
+
+Having confirmed connectivity, I take a snapshot in Virtualbox so that I can return to this base setup as needed.
+
