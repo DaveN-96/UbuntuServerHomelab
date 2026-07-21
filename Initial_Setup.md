@@ -31,3 +31,4 @@ Lastly I test SSH from my Windows host OS.
 
 Having confirmed connectivity, I take a snapshot in Virtualbox so that I can return to this base setup as needed.
 
+![Static IP Snapshot](screenshots/StaticIP_Snapshot.png)
