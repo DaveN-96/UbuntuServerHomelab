@@ -1,5 +1,6 @@
-#Ubuntu Server Setup
+# Ubuntu Server Setup
 
+This documents initial setup of Ubuntu Server in Virtualbox. A static IP is set and connectivity is confirmed before a snapshot is taken.
 
 ## Setting Static IP Address
 After installing Ubuntu Server in Virtualbox and logging in, I first run 'ip a' to check my interface names.
