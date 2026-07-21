@@ -1,2 +1,2 @@
 # UbuntuServerHomelab
-Documenting Ubuntu server homelab experience, hosted through Virtualbox
+Documenting self-hosted Ubuntu server, built using Virtualbox on Windows.
