@@ -21,7 +21,13 @@ After that, I installed PHP, created a file, and viewed it in a browser to confi
 
 ![PHP_up](screenshots/PHP_up.png)
 
-After deleting that test page, I created a table in MySQL for homelab devices.
+## Creating database and devices table and inserting a row
+
+After deleting that test page, I created a database called 'homelab' and created a table for 'devices'
+
+![TableCreated](screenshots/Table_created.png)
+
+
 
 
 
