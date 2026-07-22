@@ -13,8 +13,16 @@ Next I installed MySQL.
 
 ![SQL_Installed](screenshots/SQL_installed.png)
 
-Then I installed PHP.
+Then I created a user in MySQL, and granted permissions.
 
-![
+![User_permissions](screenshots/User_permissions.png)
+
+After that, I installed PHP, created a file, and viewed it in a browser to confirm that it was working.
+
+![PHP_up](screenshots/PHP_up.png)
+
+After deleting that test page, I created a table in MySQL for homelab devices.
+
+
 
 
