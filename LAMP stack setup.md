@@ -36,7 +36,11 @@ I added rows for three devices (after adding the row in the image, I went back a
 
 I created and configured php file for my devices table, and confirmed that it was up and running.
 
-![Webpage
+![WebpageUp](screenshots/Webpage_Up.png)
+
+Lastly, I took a new snapshot in Virtualbox.
+
+![Snapshot2](screenshots/Snapshot2.png)
 
 
 
