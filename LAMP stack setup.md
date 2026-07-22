@@ -27,8 +27,16 @@ After deleting that test page, I created a database called 'homelab' and created
 
 ![TableCreated](screenshots/Table_created.png)
 
+I added rows for three devices (after adding the row in the image, I went back and added rows for 'router' and 'windows server', the latter of which is not yet extant).
+
+![RowInserted](screenshots/Row_inserted.png)
 
 
+## Creating webpage with PHP and snapshotting
+
+I created and configured php file for my devices table, and confirmed that it was up and running.
+
+![Webpage
 
 
 
