@@ -34,7 +34,7 @@ I added rows for three devices (after adding the row in the image, I went back a
 
 ## Creating webpage with PHP and snapshotting
 
-I created and configured php file for my devices table, and confirmed that it was up and running.
+I created and configured a php file for my devices table, and confirmed that it was up and running.
 
 ![WebpageUp](screenshots/Webpage_Up.png)
 
