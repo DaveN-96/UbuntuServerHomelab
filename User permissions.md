@@ -29,3 +29,4 @@ I then give Bill sudo (root) privileges, and verify.
 
 With everything working as expected, I take a snapshot in Virtualbox.
 
+![Snapshot](screenshots/Snapshot3.png)
