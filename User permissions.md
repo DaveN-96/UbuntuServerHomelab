@@ -1,4 +1,4 @@
-# Setting up and configuring user permissions in Ubuntu Server through Virtualbox
+# User management and permissions
 
 ## Adding users and assigning them to a group
 
