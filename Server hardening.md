@@ -1,5 +1,5 @@
 # Hardening the Ubuntu Server
-For this lab, I take steps to harden my Ubuntu Server homelab- configuring a firewall, disabling access to root over SSH, setting up key-based authentication for SSH so that only my computer can access the server through SSH, disable password authentication over SSH (so that access to the server over SSH is restricted to key-based authentication) and fianlly configuring automatic security updates.
+For this lab, I take steps to harden my Ubuntu Server homelab- configuring a firewall, disabling access to root over SSH, setting up key-based authentication for SSH so that only my computer can access the server through SSH, disabling password authentication over SSH (so that access to the server over SSH is restricted to key-based authentication) and finally configuring automatic security updates.
 
 ## Setting up UFW Firewall
 
