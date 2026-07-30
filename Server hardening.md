@@ -27,7 +27,7 @@ And I confirm that I can still access the VM over SSH with the private key on my
 
 With keys up and running, I next disable password-based authentication over SSH entirely, pivoting to key-only access.
 
-![Password Auth](screenshots/disablePasswordAuth)
+![Password Auth](screenshots/disablePasswordAuth.png)
 
 And again I confirm that I can still access the VM over SSH from my machine.
 
