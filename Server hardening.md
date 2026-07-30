@@ -3,7 +3,7 @@ For this lab, I take steps to harden my Ubuntu Server homelab- configuring a fir
 
 ## Setting up UFW Firewall
 
-First I confirm the (inactive) status of the UFW firewall, and then configure it to deny all incoming traffic by the fault, besides the specified ports 22 and 80 (SSH and HTTP).
+First I confirm the (inactive) status of the UFW firewall, and then configure it to deny all incoming traffic by default, besides the specified ports 22 and 80 (SSH and HTTP).
 
 ![UFW Firewall](screenshots/firewallsetup.png)
 
